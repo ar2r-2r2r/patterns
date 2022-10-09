@@ -1,0 +1,49 @@
+*{
+    font-size: 16px;
+}
+table{
+    border-spacing: 0px;
+    width: 60vw;
+}
+a{
+    text-decoration: none;
+    font-size:13px;
+}
+
+th{
+    border: 1px solid black;
+}
+td{border:1px solid black;}
+#clean{
+    border: 0px;
+}
+
+form{
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+}
+
+span, input{
+    margin:5px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+
+}
+button{
+    font-size: 18px;
+    border-radius: 30%;
+
+}
+
+#info{
+    font-weight: bold;
+    font-size: 18px;
+}
+#tablebtn{
+    border: 0px;
+    width: 50px;
+    height: auto;
+}
